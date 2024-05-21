@@ -38,11 +38,22 @@ e contêm informações sobre os incidentes de furtos e roubos de celulares no e
 
 ## Resultados
 
-Os resultados desta análise revelam padrões significativos nos roubos de celulares em São Paulo, incluindo áreas com maior incidência e horários de pico. Detalhes completos dos resultados podem ser encontrados na seção de notebooks do projeto.
+Os resultados desta análise revelam padrões nos roubos de celulares em São Paulo, incluindo áreas com maior incidência e municípios com maior número de casos.
+### Mapa de hotspot de ocorrências
+![Mapa de calor](image/heatmap.png)
+
+### Mapa de municípios com maior ocorrência
+![Mapa de município com maior ocorrências](image/mapa_coropletico.png)
+
+### Mapa de localização das ocorrências
+![Mapa de localização](image/location.png)
+
+Detalhes completos dos resultados podem ser encontrados na seção de notebooks do projeto
 
 ## Conclusão
 
-A análise forneceu insights importantes sobre a distribuição espacial e temporal dos roubos de celulares em São Paulo. Esperamos que estes resultados possam ser utilizados para apoiar iniciativas de segurança pública.
+A análise forneceu insights importantes sobre a distribuição espacial e temporal dos roubos de celulares em São Paulo.
+Este é um exemplo de exploração de dados que podriam ser utilizadas para apoiar iniciativas de segurança pública.
 
 ## Contribuições
 
