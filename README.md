@@ -1,6 +1,4 @@
-# cellphone_theft
-
-![Análise exploratória de roubos de celulares no Estado de São Paulo]
+![Análise exploratória de roubos de celulares no Estado de São Paulo](image/image_logo.png)
 
 # Análise Exploratória de Roubos de Celulares no Estado de São Paulo
 
